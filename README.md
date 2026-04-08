@@ -1,1 +1,5 @@
-# -myfancontrol
+# 基于myfancontrol的温度读取修正版
+
+在用myfantorl的时候,发现我的TX9(N960KX)会每隔一段时间异常的读取高温数据，风扇会突然拉满转速几秒钟，然后回归正常.
+尝试各种方法无果后，尝试从源码下手，就做出了这个修改版
+感谢原作者 [原作者百度贴吧链接]([https://markdown.com.cn](https://tieba.baidu.com/p/5971634018))。
