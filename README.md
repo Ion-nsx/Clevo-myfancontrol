@@ -5,4 +5,4 @@
 
 **如果提示缺失dll文件，请用安装一下**[微软运行库](https://wwbra.lanzoue.com/igAjY3mr2twb)密码:2t4j
 ---
-感谢原作者   [原作者帖子](https://tieba.baidu.com/p/5971634018)。
+感谢原作者   [作者帖子](https://tieba.baidu.com/p/5971634018)。
